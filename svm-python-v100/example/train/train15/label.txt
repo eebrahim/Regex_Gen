@@ -1,0 +1,8 @@
+ Dear Customer,
+
+   Your Credit Card is one week overdue\.
+   Below your Card information
+
+   Customer \d+
+   Number XXXXXX
+   Card Limit XXXXXX

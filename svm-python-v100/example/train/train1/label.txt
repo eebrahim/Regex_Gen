@@ -1,0 +1,3 @@
+\S+( \S+){2}:\l
+\l
+www\.(high-endgewerbetools|supergewerbemaschinen|hochwertige-gewerbetools)\.com

@@ -1,0 +1,19 @@
+Prerequisites: You need an installation of CMake, in order to be able to compile!
+
+=== Compile ===
+    1. cmake .
+    2. make
+
+Generates an executable "Align" in the source directory.
+
+
+=== Usage ===
+
+Example:
+    ./Align testdata/have_you_seen/*
+
+Align all files in testdata/have_you_seen
+
+Further Information:
+    ./Align -h
+

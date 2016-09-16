@@ -1,0 +1,11 @@
+Original blaue [A-Za-z]+ 0,88 Euro\l
+Original blaue [A-Za-z]+ Pro\. 1,21 Euro\l
+Hunderte weitere Produkte zu besten Preisen\l
+\l
+Einfache und sichere Zahlung\l
+Jetzt NEU: Diskreter Versand \d+% ohne Zoll Probleme!\l
+\l
+\l
+http://[a-z0-9]+\.spaces\.live\.com\l
+\l
+Prof\. Dr\. \S+ \S+

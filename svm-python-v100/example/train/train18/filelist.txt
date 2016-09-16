@@ -1,0 +1,9 @@
+example//train/train18/4.in
+example//train/train18/5.in
+example//train/train18/6.in
+example//train/train18/3.in
+example//train/train18/8.in
+example//train/train18/0.in
+example//train/train18/1.in
+example//train/train18/2.in
+example//train/train18/7.in

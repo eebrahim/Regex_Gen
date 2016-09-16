@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4\.0 Transitional//EN">\l
+<HTML><HEAD>\l
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1"=\l
+>\l
+<META content=3D"MSHTML 6\.00\.2900\.2180" name=3DGENERATOR>\l
+<STYLE>\.P\l
+</STYLE>\l
+</HEAD>\l
+<BODY>\l
+<DIV align=3Dcenter><IMG hspace=3D"0" align=3Dbaseline border=3D"0" src=3D"=\l
+cid:[a-f0-9]+\$[a-f0-9]+\$6c822ecf" alt=3D""></DIV>\l
+<DIV align=3D(left|right|center) style=3D"font-face:\S+( \S+){0,2};font-size:1\dpx;">
